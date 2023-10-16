@@ -1,0 +1,8 @@
+﻿room file
+(coordonnée du coin inférieur gauche (x+y*.01)), (largeurxy), id
+
+corridor file
+(coordonnées de tous les points du corridor (x+y*.01)), id
+
+door file
+associated rooms ids, associated corridors id, id
